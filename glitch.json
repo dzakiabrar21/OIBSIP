@@ -1,0 +1,4 @@
+{
+  "install": "cd MuhammadDzakiAbrar_Task3/server && npm install",
+  "start": "cd MuhammadDzakiAbrar_Task3/server && npm start"
+}
