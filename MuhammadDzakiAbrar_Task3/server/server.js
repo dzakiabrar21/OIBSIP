@@ -77,3 +77,6 @@ server.listen(PORT, () => {
   console.log(`🚀 Server running on port ${PORT}`);
   console.log(`📡 Socket.io ready for connections`);
 });
+
+// Export the Express API for Vercel Serverless
+module.exports = app;
